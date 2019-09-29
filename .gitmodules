@@ -1,3 +1,6 @@
 [submodule "icons/material-design-icons"]
 	path = icons/material-design-icons
 	url = https://github.com/google/material-design-icons.git
+[submodule "icons/eva-icons"]
+	path = icons/eva-icons
+	url = https://github.com/akveo/eva-icons.git
