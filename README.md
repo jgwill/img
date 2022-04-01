@@ -3,5 +3,5 @@ JGWill's Images repo
 
 http://img.jgwill.com
 
-## [ICO Index](index.md)
+## [ICO Index](ico/index.md)
 
