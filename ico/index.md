@@ -1,3 +1,4 @@
+<style>img { max-width: 50px;max-height: 50px; } </style>
 # /ico index
 ----
  
